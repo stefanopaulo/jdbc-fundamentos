@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/stefano/www/ws-workspace/jdbc/.metadata/.plugins/org.eclipse.jdt.core
+963414646.index
